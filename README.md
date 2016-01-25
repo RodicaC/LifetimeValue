@@ -1,5 +1,5 @@
 # LifetimeValue
- estimate the expected lifetime of the user
+estimate the expected lifetime of the user
 
 The product that generated this data is a browser.
 Each event is a separate line in the file. Each line contains four fields separated by tabs, in order:
